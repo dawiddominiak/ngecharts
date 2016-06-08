@@ -1,5 +1,5 @@
-const angular = require('./node_modules/angular/angular.min.js');
-const echarts = require('./node_modules/echarts/dist/echarts.min');
+const angular = require('angular');
+const echarts = require('echarts');
 
 var app = angular.module('ngecharts', []);
 
